@@ -1,0 +1,11 @@
+C:\Users\Lucas\Desktop\C#\IMC C#lculator\IMC_Calculadora_Peso_Ideal\IMC_Calculadora_Peso_Ideal\bin\Debug\IMC_Calculadora_Peso_Ideal.exe.config
+C:\Users\Lucas\Desktop\C#\IMC C#lculator\IMC_Calculadora_Peso_Ideal\IMC_Calculadora_Peso_Ideal\bin\Debug\IMC_Calculadora_Peso_Ideal.exe
+C:\Users\Lucas\Desktop\C#\IMC C#lculator\IMC_Calculadora_Peso_Ideal\IMC_Calculadora_Peso_Ideal\bin\Debug\IMC_Calculadora_Peso_Ideal.pdb
+C:\Users\Lucas\Desktop\C#\IMC C#lculator\IMC_Calculadora_Peso_Ideal\IMC_Calculadora_Peso_Ideal\obj\Debug\IMC_Calculadora_Peso_Ideal.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\C#\IMC C#lculator\IMC_Calculadora_Peso_Ideal\IMC_Calculadora_Peso_Ideal\obj\Debug\IMC_Calculadora_Peso_Ideal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\Desktop\C#\IMC C#lculator\IMC_Calculadora_Peso_Ideal\IMC_Calculadora_Peso_Ideal\obj\Debug\IMC_Calculadora_Peso_Ideal.Form1.resources
+C:\Users\Lucas\Desktop\C#\IMC C#lculator\IMC_Calculadora_Peso_Ideal\IMC_Calculadora_Peso_Ideal\obj\Debug\IMC_Calculadora_Peso_Ideal.Properties.Resources.resources
+C:\Users\Lucas\Desktop\C#\IMC C#lculator\IMC_Calculadora_Peso_Ideal\IMC_Calculadora_Peso_Ideal\obj\Debug\IMC_Calculadora_Peso_Ideal.csproj.GenerateResource.cache
+C:\Users\Lucas\Desktop\C#\IMC C#lculator\IMC_Calculadora_Peso_Ideal\IMC_Calculadora_Peso_Ideal\obj\Debug\IMC_Calculadora_Peso_Ideal.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\C#\IMC C#lculator\IMC_Calculadora_Peso_Ideal\IMC_Calculadora_Peso_Ideal\obj\Debug\IMC_Calculadora_Peso_Ideal.exe
+C:\Users\Lucas\Desktop\C#\IMC C#lculator\IMC_Calculadora_Peso_Ideal\IMC_Calculadora_Peso_Ideal\obj\Debug\IMC_Calculadora_Peso_Ideal.pdb
